@@ -61,17 +61,6 @@ de *cyber-luxury*: roxo profundo, glassmorphism e tipografia forte.
 
 ---
 
-## 📸 Capturas de tela
-
-> _Adicione aqui 2-4 screenshots do site depois de publicado — a Home, a
-> página de detalhes e o chat ficam ótimas para mostrar. Pode arrastar as
-> imagens direto na issue/PR do GitHub que ele gera o link automaticamente,
-> ou subir numa pasta `docs/screenshots/` e referenciar com:_
->
-> `![Home](docs/screenshots/home.png)`
-
----
-
 ## 🚀 Rodando localmente
 
 ```bash
