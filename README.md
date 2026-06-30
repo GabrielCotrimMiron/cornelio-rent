@@ -79,8 +79,6 @@ Acesse [`http://localhost:3000`](http://localhost:3000).
 
 ---
 
----
-
 ## 🧠 Decisões de arquitetura
 
 - **Dados 100% mock**: imóveis fixos em `lib/properties.ts`; anúncios
