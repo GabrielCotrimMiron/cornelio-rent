@@ -9,7 +9,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
 [![Deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-222?style=flat-square&logo=github)](https://seu-usuario.github.io/cornelio-rent/)
 
-**[🔗 Ver demo ao vivo]([https://seu-usuario.github.io/cornelio-rent/](https://gabrielcotrimmiron.github.io/cornelio-rent/))**
+**[🔗 Ver demo ao vivo](https://gabrielcotrimmiron.github.io/cornelio-rent/)**
 
 </div>
 
